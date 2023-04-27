@@ -1,0 +1,1786 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Faculty - UT Dallas Department of Computer Science - UT Dallas Department of Computer Science - The University of Texas at Dallas – Erik Jonsson School of Engineering and Computer Science</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://cs.utdallas.edu/xmlrpc.php" rel="pingback"/>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+<!-- Jetpack Site Verification Tags -->
+<meta content="39TQQqEsbNhgjgg4waYzh8y7Se_SLUeC_L8vYv1Tmh8" name="google-site-verification"/>
+<!-- This site is optimized with the Yoast SEO plugin v20.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Faculty - UT Dallas Department of Computer Science</title>
+<link href="https://cs.utdallas.edu/people/faculty/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Faculty - UT Dallas Department of Computer Science" property="og:title"/>
+<meta content="https://cs.utdallas.edu/people/faculty/" property="og:url"/>
+<meta content="UT Dallas Department of Computer Science" property="og:site_name"/>
+<meta content="https://www.facebook.com/UTDCSDept/" property="article:publisher"/>
+<meta content="2023-04-11T14:59:03+00:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@csDeptHead" name="twitter:site"/>
+<meta content="Est. reading time" name="twitter:label1"/>
+<meta content="8 minutes" name="twitter:data1"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://cs.utdallas.edu/people/faculty/","url":"https://cs.utdallas.edu/people/faculty/","name":"Faculty - UT Dallas Department of Computer Science","isPartOf":{"@id":"https://cs.utdallas.edu/#website"},"datePublished":"2014-04-03T00:57:33+00:00","dateModified":"2023-04-11T14:59:03+00:00","breadcrumb":{"@id":"https://cs.utdallas.edu/people/faculty/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://cs.utdallas.edu/people/faculty/"]}]},{"@type":"BreadcrumbList","@id":"https://cs.utdallas.edu/people/faculty/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cs.utdallas.edu/"},{"@type":"ListItem","position":2,"name":"People","item":"https://cs.utdallas.edu/people/"},{"@type":"ListItem","position":3,"name":"Faculty"}]},{"@type":"WebSite","@id":"https://cs.utdallas.edu/#website","url":"https://cs.utdallas.edu/","name":"UT Dallas Department of Computer Science","description":"The University of Texas at Dallas - Erik Jonsson School of Engineering and Computer Science","publisher":{"@id":"https://cs.utdallas.edu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cs.utdallas.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://cs.utdallas.edu/#organization","name":"The University of Texas at Dallas - Computer Science Department","url":"https://cs.utdallas.edu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://cs.utdallas.edu/#/schema/logo/image/","url":"https://i1.wp.com/cs.utdallas.edu/wp-content/uploads/2020/04/12779285_1703714006534491_1954715901339154591_o.jpg?fit=960%2C960&ssl=1","contentUrl":"https://i1.wp.com/cs.utdallas.edu/wp-content/uploads/2020/04/12779285_1703714006534491_1954715901339154591_o.jpg?fit=960%2C960&ssl=1","width":960,"height":960,"caption":"The University of Texas at Dallas - Computer Science Department"},"image":{"@id":"https://cs.utdallas.edu/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/UTDCSDept/","https://twitter.com/csDeptHead","https://www.youtube.com/channel/UCp2KjRa6v7xesbUqLY2q7FA"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//c0.wp.com" rel="dns-prefetch"/>
+<link href="https://cs.utdallas.edu/feed/" rel="alternate" title="UT Dallas Department of Computer Science » Feed" type="application/rss+xml"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v8.14.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script async="" data-cfasync="false" data-wpfc-render="false" src="//www.googletagmanager.com/gtag/js?id=UA-170970751-1" type="text/javascript"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.14.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-SV7YR2XXW3',
+															'ga-disable-UA-170970751-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+														parameters.send_to = monsterinsights_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-SV7YR2XXW3', {"forceSSL":"true","link_attribution":"true"} );
+															__gtagTracker('config', 'UA-170970751-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cs.utdallas.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://cs.utdallas.edu/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css?ver=6.2" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/easy-bootstrap-shortcodes/styles/font-awesome.min.css?ver=6.2" id="bootstrap-fa-icon-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/fastmediagalleryelementor/assets/css/style.css?ver=6.2" id="fastmediagallery-vc-main-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://c0.wp.com/c/6.2/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://c0.wp.com/c/6.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://c0.wp.com/c/6.2/wp-includes/js/mediaelement/wp-mediaelement.min.css" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://c0.wp.com/c/6.2/wp-includes/css/classic-themes.min.css" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://cs.utdallas.edu/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=2.3.3" id="fvp-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/recent-posts-by-cooperative-computing/assets/css/recent-post-by-cc.css?ver=6.2" id="recent-post-by-cc-style-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="responsive-menu-inline-css" type="text/css">
+#rmp_menu_trigger-25220{width: 55px;height: 55px;position: fixed;top: 15px;border-radius: 5px;display: none;text-decoration: none;right: 43%;background: #3b3531;transition: transform 0.5s, background-color 1s}#rmp_menu_trigger-25220:hover, #rmp_menu_trigger-25220:focus{background: #000000;text-decoration: unset}#rmp_menu_trigger-25220.is-active{background: #3b3531}#rmp_menu_trigger-25220 .rmp-trigger-box{width: 44px;color: #ffffff}#rmp_menu_trigger-25220 .rmp-trigger-icon-active, #rmp_menu_trigger-25220 .rmp-trigger-text-open{display: none}#rmp_menu_trigger-25220.is-active .rmp-trigger-icon-active, #rmp_menu_trigger-25220.is-active .rmp-trigger-text-open{display: inline}#rmp_menu_trigger-25220.is-active .rmp-trigger-icon-inactive, #rmp_menu_trigger-25220.is-active .rmp-trigger-text{display: none}#rmp_menu_trigger-25220 .rmp-trigger-label{color: #ffffff;pointer-events: none;line-height: 13px;font-family: inherit;font-size: 13px;display: inline;text-transform: inherit}#rmp_menu_trigger-25220 .rmp-trigger-label.rmp-trigger-label-top{display: block;margin-bottom: 12px}#rmp_menu_trigger-25220 .rmp-trigger-label.rmp-trigger-label-bottom{display: block;margin-top: 12px}#rmp_menu_trigger-25220 .responsive-menu-pro-inner{display: block}#rmp_menu_trigger-25220 .responsive-menu-pro-inner, #rmp_menu_trigger-25220 .responsive-menu-pro-inner::before, #rmp_menu_trigger-25220 .responsive-menu-pro-inner::after{width: 44px;height: 2px;background-color: #ffffff;border-radius: 4px;position: absolute}#rmp_menu_trigger-25220.is-active .responsive-menu-pro-inner, #rmp_menu_trigger-25220.is-active .responsive-menu-pro-inner::before, #rmp_menu_trigger-25220.is-active .responsive-menu-pro-inner::after{background-color: #ffffff}#rmp_menu_trigger-25220:hover .responsive-menu-pro-inner, #rmp_menu_trigger-25220:hover .responsive-menu-pro-inner::before, #rmp_menu_trigger-25220:hover .responsive-menu-pro-inner::after{background-color: #ffffff}@media screen and (max-width: 767px){.navbar-toggle{display: none !important}#rmp_menu_trigger-25220{display: block}#rmp-container-25220{position: fixed;top: 0;margin: 0;transition: transform 0.5s;overflow: auto;display: block;width: 70%;background-color: #3b3531;background-image: url("");height: 100%;left: 0;padding-top: 0px;padding-left: 0px;padding-bottom: 0px;padding-right: 0px}#rmp-menu-wrap-25220{padding-top: 0px;padding-left: 0px;padding-bottom: 0px;padding-right: 0px;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-menu, #rmp-menu-wrap-25220 .rmp-submenu{width: 100%;box-sizing: border-box;margin: 0;padding: 0}#rmp-menu-wrap-25220 .rmp-submenu-depth-1 .rmp-menu-item-link{padding-left: 10%}#rmp-menu-wrap-25220 .rmp-submenu-depth-2 .rmp-menu-item-link{padding-left: 15%}#rmp-menu-wrap-25220 .rmp-submenu-depth-3 .rmp-menu-item-link{padding-left: 20%}#rmp-menu-wrap-25220 .rmp-submenu-depth-4 .rmp-menu-item-link{padding-left: 25%}#rmp-menu-wrap-25220 .rmp-submenu.rmp-submenu-open{display: block}#rmp-menu-wrap-25220 .rmp-menu-item{width: 100%;list-style: none;margin: 0}#rmp-menu-wrap-25220 .rmp-menu-item-link{height: 44px;line-height: 44px;font-size: 13px;border-bottom: 1px solid #2c2825;font-family: inherit;color: #ffffff;text-align: left;background-color: #3b3531;font-weight: normal;letter-spacing: 0px;display: block;box-sizing: border-box;width: 100%;text-decoration: none;position: relative;overflow: hidden;transition: background-color 1s, border-color 1s, 1s;padding: 0 5%;padding-right: 54px}#rmp-menu-wrap-25220 .rmp-menu-item-link:after, #rmp-menu-wrap-25220 .rmp-menu-item-link:before{display: none}#rmp-menu-wrap-25220 .rmp-menu-item-link:hover{color: #ffffff;border-color: #2c2825;background-color: #2c2825}#rmp-menu-wrap-25220 .rmp-menu-item-link:focus{outline: none;border-color: unset;box-shadow: unset}#rmp-menu-wrap-25220 .rmp-menu-item-link .rmp-font-icon{height: 44px;line-height: 44px;margin-right: 10px;font-size: 13px}#rmp-menu-wrap-25220 .rmp-menu-current-item .rmp-menu-item-link{color: #ffffff;border-color: #212121;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-menu-current-item .rmp-menu-item-link:hover{color: #ffffff;border-color: #3f3f3f;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-menu-subarrow{position: absolute;top: 0;bottom: 0;text-align: center;overflow: hidden;background-size: cover;overflow: hidden;right: 0;border-left-style: solid;border-left-color: #2c2825;border-left-width: 1px;height: 44px;width: 44px;color: #ffffff;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-menu-subarrow:hover{color: #ffffff;border-color: #2c2825;background-color: #2c2825}#rmp-menu-wrap-25220 .rmp-menu-subarrow .rmp-font-icon{margin-right: unset}#rmp-menu-wrap-25220 .rmp-menu-subarrow *{vertical-align: middle;line-height: 44px}#rmp-menu-wrap-25220 .rmp-menu-subarrow-active{display: block;background-size: cover;color: #ffffff;border-color: #212121;background-color: #212121}#rmp-menu-wrap-25220 .rmp-menu-subarrow-active:hover{color: #ffffff;border-color: #ffffff;background-color: #3f3f3f}#rmp-menu-wrap-25220 .rmp-submenu{display: none}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-item-link{height: 44px;line-height: 44px;letter-spacing: 0px;font-size: 13px;border-bottom: 1px solid #2c2825;font-family: inherit;font-weight: normal;color: #ffffff;text-align: left;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-item-link:hover{color: #ffffff;border-color: #2c2825;background-color: #2c2825}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-current-item .rmp-menu-item-link{color: #ffffff;border-color: #212121;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-current-item .rmp-menu-item-link:hover{color: #ffffff;border-color: #3f3f3f;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-subarrow{right: 0;border-right: unset;border-left-style: solid;border-left-color: #2c2825;border-left-width: 1px;height: 44px;line-height: 44px;width: 44px;color: #ffffff;background-color: #3b3531}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-subarrow:hover{color: #ffffff;border-color: #2c2825;background-color: #2c2825}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-subarrow-active{color: #ffffff;border-color: #212121;background-color: #212121}#rmp-menu-wrap-25220 .rmp-submenu .rmp-menu-subarrow-active:hover{color: #ffffff;border-color: #ffffff;background-color: #3f3f3f}#rmp-menu-wrap-25220 .rmp-menu-item-description{margin: 0;padding: 5px 5%;opacity: 0.8;color: #ffffff}#rmp-search-box-25220{display: block;padding-top: 0px;padding-left: 5%;padding-bottom: 0px;padding-right: 5%}#rmp-search-box-25220 .rmp-search-form{margin: 0}#rmp-search-box-25220 .rmp-search-box{background: #ffffff;border: 1px solid #dadada;color: #333333;width: 100%;padding: 0 5%;border-radius: 30px;height: 45px;-webkit-appearance: none}#rmp-search-box-25220 .rmp-search-box::placeholder{color: #c7c7cd}#rmp-search-box-25220 .rmp-search-box:focus{background-color: #ffffff;outline: 2px solid #dadada;color: #333333}#rmp-menu-title-25220{background-color: #3b3531;color: #ffffff;text-align: left;font-size: 18px;padding-top: 10%;padding-left: 5%;padding-bottom: 0%;padding-right: 5%;font-weight: 400;transition: background-color 1s, border-color 1s, color 1s}#rmp-menu-title-25220:hover{background-color: #3b3531;color: #ffffff}#rmp-menu-title-25220 > a{color: #ffffff;width: 100%;background-color: unset;text-decoration: none}#rmp-menu-title-25220 > a:hover{color: #ffffff}#rmp-menu-title-25220 .rmp-font-icon{font-size: 18px}#rmp-menu-additional-content-25220{padding-top: 0px;padding-left: 5%;padding-bottom: 0px;padding-right: 5%;color: #ffffff;text-align: center;font-size: 16px}}.rmp-container{display: none;visibility: visible;padding: 0px 0px 0px 0px;z-index: 99998;transition: all 0.3s}.rmp-container.rmp-fade-top, .rmp-container.rmp-fade-left, .rmp-container.rmp-fade-right, .rmp-container.rmp-fade-bottom{display: none}.rmp-container.rmp-slide-left, .rmp-container.rmp-push-left{transform: translateX(-100%);-ms-transform: translateX(-100%);-webkit-transform: translateX(-100%);-moz-transform: translateX(-100%)}.rmp-container.rmp-slide-left.rmp-menu-open, .rmp-container.rmp-push-left.rmp-menu-open{transform: translateX(0);-ms-transform: translateX(0);-webkit-transform: translateX(0);-moz-transform: translateX(0)}.rmp-container.rmp-slide-right, .rmp-container.rmp-push-right{transform: translateX(100%);-ms-transform: translateX(100%);-webkit-transform: translateX(100%);-moz-transform: translateX(100%)}.rmp-container.rmp-slide-right.rmp-menu-open, .rmp-container.rmp-push-right.rmp-menu-open{transform: translateX(0);-ms-transform: translateX(0);-webkit-transform: translateX(0);-moz-transform: translateX(0)}.rmp-container.rmp-slide-top, .rmp-container.rmp-push-top{transform: translateY(-100%);-ms-transform: translateY(-100%);-webkit-transform: translateY(-100%);-moz-transform: translateY(-100%)}.rmp-container.rmp-slide-top.rmp-menu-open, .rmp-container.rmp-push-top.rmp-menu-open{transform: translateY(0);-ms-transform: translateY(0);-webkit-transform: translateY(0);-moz-transform: translateY(0)}.rmp-container.rmp-slide-bottom, .rmp-container.rmp-push-bottom{transform: translateY(100%);-ms-transform: translateY(100%);-webkit-transform: translateY(100%);-moz-transform: translateY(100%)}.rmp-container.rmp-slide-bottom.rmp-menu-open, .rmp-container.rmp-push-bottom.rmp-menu-open{transform: translateX(0);-ms-transform: translateX(0);-webkit-transform: translateX(0);-moz-transform: translateX(0)}.rmp-container::-webkit-scrollbar{width: 0px}.rmp-container ::-webkit-scrollbar-track{box-shadow: inset 0 0 5px transparent}.rmp-container ::-webkit-scrollbar-thumb{background: transparent}.rmp-container ::-webkit-scrollbar-thumb:hover{background: transparent}.rmp-container .rmp-menu-wrap .rmp-menu{transition: none;border-radius: 0;box-shadow: none;background: none;border: 0;bottom: auto;box-sizing: border-box;clip: auto;color: #666;display: block;float: none;font-family: inherit;font-size: 14px;height: auto;left: auto;line-height: 1.7;list-style-type: none;margin: 0;min-height: auto;max-height: none;opacity: 1;outline: none;overflow: visible;padding: 0;position: relative;pointer-events: auto;right: auto;text-align: left;text-decoration: none;text-indent: 0;text-transform: none;transform: none;top: auto;visibility: inherit;width: auto;word-wrap: break-word;white-space: normal}.rmp-container .rmp-menu-additional-content{display: block;word-break: break-word}.rmp-container .rmp-menu-title{display: flex;flex-direction: column}.rmp-container .rmp-menu-title .rmp-menu-title-image{max-width: 100%;margin-bottom: 15px;display: block;margin: auto;margin-bottom: 15px}button.rmp_menu_trigger{z-index: 999999;overflow: hidden;outline: none;border: 0;display: none;margin: 0;transition: transform 0.5s, background-color 0.5s;padding: 0}button.rmp_menu_trigger .responsive-menu-pro-inner::before, button.rmp_menu_trigger .responsive-menu-pro-inner::after{content: "";display: block}button.rmp_menu_trigger .responsive-menu-pro-inner::before{top: 10px}button.rmp_menu_trigger .responsive-menu-pro-inner::after{bottom: 10px}button.rmp_menu_trigger .rmp-trigger-box{width: 40px;display: inline-block;position: relative;pointer-events: none;vertical-align: super}.rmp-menu-trigger-boring .responsive-menu-pro-inner{transition-property: none}.rmp-menu-trigger-boring .responsive-menu-pro-inner::after, .rmp-menu-trigger-boring .responsive-menu-pro-inner::before{transition-property: none}.rmp-menu-trigger-boring.is-active .responsive-menu-pro-inner{transform: rotate(45deg)}.rmp-menu-trigger-boring.is-active .responsive-menu-pro-inner:before{top: 0;opacity: 0}.rmp-menu-trigger-boring.is-active .responsive-menu-pro-inner:after{bottom: 0;transform: rotate(-90deg)}
+</style>
+<link href="https://c0.wp.com/c/6.2/wp-includes/css/dashicons.min.css" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/uploads/useanyfont/uaf.css?ver=1675266389" id="uaf_client_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/wp-post-navigation/style.css?ver=6.2" id="wp-post-navigation-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/xt-facebook-events/assets/css/xt-facebook-events.css?ver=6.2" id="xt-facebook-events-front-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music/style.css?ver=6.2" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music/layouts/bootstrap.min.css?ver=3.3.4" id="ta-music-bootstrap-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music/layouts/font-awesome.min.css?ver=4.3.0" id="ta-music-font-awesome-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Dosis%3A400%2C500%2C600%2C700&amp;ver=6.2" id="ta-music-google-font-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music/layouts/red.css?ver=6.2" id="ta-music-color-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music/layouts/isotope.css?ver=6.2" id="ta-music-isotope-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music/layouts/audio-player.css?ver=6.2" id="ta-music-audio-player-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/themes/ta-music-child/style.css?ver=6.2" id="ta-music-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/easy-table/themes/cuscosky/style.css?ver=1.8" id="easy_table_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cs.utdallas.edu/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=6.11.0" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cs.utdallas.edu/wp-content/plugins/easy-bootstrap-shortcodes/styles/ebs_dynamic_css.php?ver=6.2" id="ebs_dynamic_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://c0.wp.com/p/jetpack/12.0/css/jetpack.css" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://c0.wp.com/c/6.2/wp-includes/js/jquery/jquery.min.js" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://c0.wp.com/c/6.2/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<script id="bootstrap-js" src="https://cs.utdallas.edu/wp-content/plugins/easy-bootstrap-shortcodes/js/bootstrap.min.js?ver=6.2" type="text/javascript"></script>
+<script id="monsterinsights-frontend-script-js" src="https://cs.utdallas.edu/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.14.1" type="text/javascript"></script>
+<script data-cfasync="false" data-wpfc-render="false" id="monsterinsights-frontend-script-js-extra" type="text/javascript">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/cs.utdallas.edu","hash_tracking":"false","ua":"UA-170970751-1","v4_id":"G-SV7YR2XXW3"};/* ]]> */
+</script>
+<script id="jquery.fitvids-js" src="https://cs.utdallas.edu/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08" type="text/javascript"></script>
+<script id="fvp-frontend-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"https:\/\/cs.utdallas.edu\/wp-admin\/admin-ajax.php","nonce":"843492fda5","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script>
+<script id="fvp-frontend-js" src="https://cs.utdallas.edu/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.3.3" type="text/javascript"></script>
+<script id="easy_table_script-js" src="https://cs.utdallas.edu/wp-content/plugins/easy-table/js/easy-table-script.js?ver=1.8" type="text/javascript"></script>
+<link href="https://cs.utdallas.edu/wp-json/" rel="https://api.w.org/"/><link href="https://cs.utdallas.edu/wp-json/wp/v2/pages/105" rel="alternate" type="application/json"/><link href="https://cs.utdallas.edu/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://cs.utdallas.edu/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.2" name="generator"/>
+<link href="https://wp.me/P7nd0h-1H" rel="shortlink"/>
+<link href="https://cs.utdallas.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcs.utdallas.edu%2Fpeople%2Ffaculty%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://cs.utdallas.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcs.utdallas.edu%2Fpeople%2Ffaculty%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<style type="text/css">
+					.wp-post-navigation a{
+					text-decoration: none;
+font:bold 16px sans-serif, arial;
+color: #008542;
+					}
+				 </style> <style>img#wpstats{display:none}</style>
+<!-- Custom CSS -->
+<style type="text/css">
+</style><meta content="Elementor 3.12.2; features: a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto" name="generator"/>
+<meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link href="https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/cropped-UTDmono_blk_rgb-Web.jpg?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/cropped-UTDmono_blk_rgb-Web.jpg?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/cropped-UTDmono_blk_rgb-Web.jpg?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon"/>
+<meta content="https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/cropped-UTDmono_blk_rgb-Web.jpg?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">
+			
+
+/** Start Envato Elements CSS: Blocks (73-3-f64f7bd8e81de57bc1df72206fdbe45a) **/
+
+/* Newsletter Placeholder Text Alignment */
+.envato-kit-70-subscribe-form-inline .elementor-field-type-email input {
+	padding-left: 27px;
+}
+
+.envato-kit-70-review-mobile .elementor-testimonial{
+	flex-direction: column-reverse;
+}
+
+/** End Envato Elements CSS: Blocks (73-3-f64f7bd8e81de57bc1df72206fdbe45a) **/
+
+.advanced-sidebar-menu .grandchild-sidebar-menu.level-0.children li{
+	font-size:16px !important;
+	color: white !important;
+	font-weight: 100 !important;
+	
+}
+
+.advanced-sidebar-menu .has_children li{
+	font-size:18px !important;
+}
+
+.advanced-sidebar-menu .has_children a{
+	
+}
+
+.advanced-sidebar-menu a{
+	text-transform: uppercase;
+	color: white !important;
+	font-weight: 400 !important;	
+}
+
+.advanced-sidebar-menu a:hover{
+	color: #69BE28 !important;
+	font-weight: 100 !important;	
+}
+
+.advanced-sidebar-menu{
+	padding-top: 7.0em;
+}
+
+.broken_link{
+	text-decoration : none ! important;
+}
+
+.page-id-105 .clearfix {
+    width: 100% ! important;
+}
+
+@media(max-width: 767px) {
+.table-responsive {
+	border:none;
+
+	}
+}
+
+
+@media(max-width: 767px){
+.table > tbody > tr > td {
+/*     padding: 15px 15px; */
+    border-top: none;
+    padding-right: 130px ! important;
+	}}
+
+
+
+
+
+
+
+
+
+		</style>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page-template-default page page-id-105 page-parent page-child parent-pageid-14 wpb-js-composer js-comp-ver-6.11.0 vc_responsive elementor-default elementor-kit-11066">
+<div class="hfeed site" id="page">
+<a class="sr-only" href="#content">Skip to content</a>
+<!-- TOP-BAR -->
+<div id="top-bar">
+<div class="container">
+<!-- Top Page Links -->
+<ul id="top-page-links">
+<li class="About"><a href="https://cs.utdallas.edu/about/">About</a></li>
+<li class="Contact"><a href="https://cs.utdallas.edu/contact">Contact</a></li>
+<li class="givng"><a href="https://giving.utdallas.edu/CS">Give to CS</a></li>
+</ul>
+<ul id="top-links">
+<li class="facebook"><a href="https://www.facebook.com/UTDCSDept" target="_blank"></a></li>
+<li class="twitter"><a href="https://twitter.com/csDeptHead" target="_blank"></a></li>
+<li class="google-plus"><a href="https://flic.kr/ps/35ZjNa" target="_blank"></a></li>
+<li class="youtube"><a href="https://www.youtube.com/channel/UCp2KjRa6v7xesbUqLY2q7FA" target="_blank"></a></li>
+<li class="search">
+<form action="https://cs.utdallas.edu/" id="search-form" method="get" role="search">
+<input id="top-search" name="s" type="text" value=""/>
+</form>
+<a href="#"></a>
+</li>
+</ul><!-- #top-links -->
+</div><!-- .container -->
+</div><!-- #top-bar -->
+<header class="navbar navbar-default" id="navigation" role="banner">
+<div class="container">
+<div class="navbar-header">
+<!-- Responsive nav button -->
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<!-- End responsive nav button -->
+<!-- UTD Logo -->
+<a class="navbar-UTD-brand" href="https://www.utdallas.edu/" target="_blank"><img src="https://cs.utdallas.edu/wp-content/uploads/2016/05/UTDallas_Logo_09_Sm_W.png"/></a>
+<!-- End UTD Logo -->
+<!-- Main Logo -->
+<a class="navbar-brand" href="https://cs.utdallas.edu/" rel="homepage"><img alt="UT Dallas Department of Computer Science" src="https://cs.utdallas.edu/wp-content/uploads/2022/04/CSLOGO-4-white-SHAPE.png"/></a>
+<!-- End Main Logo -->
+<!-- Jonsson Logo -->
+<a class="navbar-Jonsson-brand" href="https://engineering.utdallas.edu/" target="_blank"><img src="https://cs.utdallas.edu/wp-content/uploads/2016/03/Jonsson_01.png"/></a>
+<!-- End Jonsson Logo -->
+</div><!-- .navbar-header -->
+<!-- Main nav -->
+<nav class="collapse navbar-collapse" id="main-nav" role="Navigation">
+<ul class="nav navbar-nav" id="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10936 dropdown" id="menu-item-10936"><a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="https://cs.utdallas.edu/about/" title="About">About <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10939" id="menu-item-10939"><a href="https://cs.utdallas.edu/about/history/" title="History">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10953" id="menu-item-10953"><a href="https://cs.utdallas.edu/about/computing-facilities/" title="Computing Facilities">Computing Facilities</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10954" id="menu-item-10954"><a href="https://cs.utdallas.edu/about/accreditation/" title="Accreditation">Accreditation</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10952" id="menu-item-10952"><a href="https://cs.utdallas.edu/about/mission/" title="Mission">Mission</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-736" id="menu-item-736"><a href="https://cs.utdallas.edu/news/" title="News">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-222 dropdown" id="menu-item-222"><a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="https://cs.utdallas.edu/?page_id=139" title="Research">Research <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5367" id="menu-item-5367"><a href="https://cs.utdallas.edu/research/research-areas/" title="Research Areas">Research Areas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5366" id="menu-item-5366"><a href="https://cs.utdallas.edu/research/institutes-and-centers/" title="Institutes and Centers">Institutes and Centers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5365" id="menu-item-5365"><a href="https://cs.utdallas.edu/research/labs/" title="Labs">Labs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335" id="menu-item-1335"><a href="https://cs.utdallas.edu/research/reports/" title="Reports">Reports</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4948" id="menu-item-4948"><a href="https://cs.utdallas.edu/research/department-software/" title="Department Software">Department Software</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7809" id="menu-item-7809"><a href="https://cs.utdallas.edu/front-page/cs-blog/" title="CS Blog">CS Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4970 dropdown" id="menu-item-4970"><a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="https://cs.utdallas.edu/education/" title="Education">Education <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5585 dropdown" id="menu-item-5585"><a href="https://cs.utdallas.edu/admissions/" title="Admissions">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4974" id="menu-item-4974"><a href="https://cs.utdallas.edu/education/undergraduate/" title="Undergraduate">Undergraduate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4973" id="menu-item-4973"><a href="https://cs.utdallas.edu/education/graduate/" title="Graduate">Graduate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25454" id="menu-item-25454"><a href="https://cs.utdallas.edu/education/scholarships/" title="Scholarships">Scholarships</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39" id="menu-item-39"><a href="https://cs.utdallas.edu/education/degrees/" title="Degrees">Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125" id="menu-item-125"><a href="https://cs.utdallas.edu/admissions/forms/" title="Forms">Forms</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-105 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-225 dropdown active" id="menu-item-225"><a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="https://cs.utdallas.edu/people/faculty/" title="People">People <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-24183 active" id="menu-item-24183"><a href="https://cs.utdallas.edu/people/faculty" title="Faculty">Faculty</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25081" id="menu-item-25081"><a href="https://cs.utdallas.edu/people/part-time-lecturers/" title="Part-Time Lecturers">Part-Time Lecturers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10890" id="menu-item-10890"><a href="https://cs.utdallas.edu/people/affiliated-faculty/" title="Affiliated Faculty">Affiliated Faculty</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10342" id="menu-item-10342"><a href="https://cs.utdallas.edu/people/faculty-alumni/" title="Faculty Alumni">Faculty Alumni</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24953" id="menu-item-24953"><a href="https://cs.utdallas.edu/people/ta-ra/" title="CS TA / RA">CS TA / RA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429" id="menu-item-2429"><a href="https://cs.utdallas.edu/people/staff/" title="Staff">Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6107" id="menu-item-6107"><a href="https://cs.utdallas.edu/people/job-postings/" title="Job Postings">Job Postings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1034 dropdown" id="menu-item-1034"><a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="https://cs.utdallas.edu/industry/" title="Industry">Industry <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25118" id="menu-item-25118"><a href="https://cs.utdallas.edu/industry/iac/" title="Industry Advisory Council">Industry Advisory Council</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25122" id="menu-item-25122"><a href="https://cs.utdallas.edu/industry/models-of-engagement/" title="Models of Engagement">Models of Engagement</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4979 dropdown" id="menu-item-4979"><a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="https://cs.utdallas.edu/community/" title="Students">Students <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25352" id="menu-item-25352"><a href="https://cs.utdallas.edu/community/student-resources/" title="Student Resources">Student Resources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4975" id="menu-item-4975"><a href="https://cs.utdallas.edu/community/organizations/" title="Organizations">Organizations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11359" id="menu-item-11359"><a href="https://cs.utdallas.edu/community/tutoring-mentor/" title="Tutoring / Testing">Tutoring / Testing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9619" id="menu-item-9619"><a href="https://cs.utdallas.edu/community/international-students/" title="International">International</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9847" id="menu-item-9847"><a href="https://cs.utdallas.edu/community/housing-and-dining/" title="Housing and Dining">Housing and Dining</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26656" id="menu-item-26656"><a href="https://cs.utdallas.edu/community/idea/" title="IDEA">IDEA</a></li>
+</ul>
+</li>
+</ul> </nav>
+<!-- End main nav -->
+</div>
+</header><!-- #navigation -->
+<!-- breadcrumbs -->
+<section id="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<div class="container">
+<a href="https://cs.utdallas.edu/" property="v:title" rel="v:url">Home</a><i class="fa fa-angle-double-right"></i><span typeof="v:Breadcrumb"><a href="https://cs.utdallas.edu/people/" property="v:title" rel="v:url">People</a></span><i class="fa fa-angle-double-right"></i><span class="active">Faculty</span> </div>
+</section><!-- #breadcrumbs -->
+<!-- main content area -->
+<main class="site-main" id="main" role="main">
+<section id="content">
+<div class="container">
+<div class="row">
+<div class="col-sm-8 clearfix">
+<article class="post post-105 page type-page status-publish hentry" id="post-105">
+<header class="entry-header">
+<h1 class="entry-title"><a href="https://cs.utdallas.edu/people/faculty/" rel="bookmark">Faculty</a></h1> </header><!-- .entry-header -->
+<div class="post-content">
+<section class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<div class="btn-group btn-group-justified"><a class="btn btn-dark" href="#a" rel="" target="_self">A</a>
+<a class="btn btn-dark" href="#b" rel="" target="_self">B</a>
+<a class="btn btn-dark" href="#c" rel="" target="_self">C</a>
+<a class="btn btn-dark" href="#d" rel="" target="_self">D</a>
+<a class="btn btn-dark" href="#e" rel="" target="_self">E</a>
+<a class="btn btn-dark" href="#f" rel="" target="_self">F</a>
+<a class="btn btn-dark" href="#g" rel="" target="_self">G</a>
+<a class="btn btn-dark" href="#h" rel="" target="_self">H</a>
+<a class="btn btn-dark" href="#i" rel="" target="_self">I</a>
+<a class="btn btn-dark" href="#j" rel="" target="_self">J</a>
+<a class="btn btn-dark" href="#k" rel="" target="_self">K</a>
+<a class="btn btn-dark" href="#l" rel="" target="_self">L</a>
+<a class="btn btn-dark" href="#m" rel="" target="_self">M</a></div><br/>
+<div class="btn-group btn-group-justified"><a class="btn btn-dark" href="#n" rel="" target="_self">N</a>
+<a class="btn btn-dark" href="#o" rel="" target="_self">O</a>
+<a class="btn btn-dark" href="#p" rel="" target="_self">P</a>
+<a class="btn btn-dark" href="#q" rel="" target="_self">Q</a>
+<a class="btn btn-dark" href="#r" rel="" target="_self">R</a>
+<a class="btn btn-dark" href="#s" rel="" target="_self">S</a>
+<a class="btn btn-dark" href="#t" rel="" target="_self">T</a>
+<a class="btn btn-dark" href="#u" rel="" target="_self">U</a>
+<a class="btn btn-dark" href="#v" rel="" target="_self">V</a>
+<a class="btn btn-dark" href="#w" rel="" target="_self">W</a>
+<a class="btn btn-dark" href="#x" rel="" target="_self">X</a>
+<a class="btn btn-dark" href="#y" rel="" target="_self">Y</a>
+<a class="btn btn-dark" href="#z" rel="" target="_self">Z</a>
+</div><div class="table-responsive"><table class="table" style="table-striped table-bordered" width="100%"><thead><tr>
+<th>Name &amp; Position</th><th>Info</th></tr></thead><tbody>
+<tr>
+<td>
+<a name="a"></a><a href="https://cs.utdallas.edu/people/faculty/alagar-sridhar/" rel="noopener noreferrer" target="_blank">Alagar, Sridhar</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:sridhar@utdallas.edu">sridhar@utdallas.edu</a><br/>
+(972) 883-4161<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="a"></a><a href="https://cs.utdallas.edu/people/faculty/arnold-gordon/">Arnold, Gordon Leslie</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:gordon.arnold@utdallas.edu" rel="noopener noreferrer" target="_blank">gordon.arnold@utdallas.edu</a><br/>
+(972) 883-7518<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="b"></a><a href="https://cs.utdallas.edu/people/faculty/bastani-farokh-b/">Bastani, Farokh B.</a><br/>
+Professor and<br/>
+Excellence in Education Chair<br/>
+</td>
+<td>
+<a href="mailto:Farokh.Bastani@utdallas.edu">Farokh.Bastani@utdallas.edu</a><br/>
+(972) 883-2299<br/>
+<a href="http://www.utdallas.edu/~bastani/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="b"></a><a href="https://cs.utdallas.edu/people/faculty/eric-becker/">Becker, Eric</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td><a href="mailto:eric.becker@utdallas.edu">eric.becker@utdallas.edu</a><br/>
+(972) 883-3862<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/bereg-sergey/">Bereg, Sergey</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:besp@utdallas.edu">besp@utdallas.edu</a><br/>
+(972) 883-2364<br/>
+<a href="http://www.utdallas.edu/~besp/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/borazjany-mehra/">Borazjany, Mehra</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Mehra@utdallas.edu">Mehra@utdallas.edu</a><br/>
+(972) 883-2439<br/>
+<a href="http://www.utdallas.edu/~mehra/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="c"></a><a href="https://cs.utdallas.edu/people/faculty/cankaya-ebru/">Cankaya, Ebru</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:ebru.cankaya@utdallas.edu">ebru.cankaya@utdallas.edu</a><br/>
+(972) 883-2018<br/>
+<a href="http://utdallas.edu/~exc067000/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chandrasekaran-r/">Chandrasekaran, R.</a><br/>
+Emeritus Ashbel Smith Professor<br/>
+</td>
+<td>
+<a href="mailto:r.chandrasekaran@utdallas.edu" rel="noopener noreferrer" target="_blank">r.chandrasekaran@utdallas.edu</a><br/>
+(972) 883-2032<br/>
+<a href="http://www.utdallas.edu/~chandra/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chen-feng/">Chen, Feng</a><br/>
+Associate Professor<br/>
+</td>
+<td>
+<a href="mailto:feng.chen@utdallas.edu" rel="noopener noreferrer" target="_blank">feng.chen@utdallas.edu</a><br/>
+972-883-6610<br/>
+<a href="http://www.utdallas.edu/~fxc190007/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chida-anjum/">Chida, Anjum</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:anjum.chida@utdallas.edu" rel="noopener noreferrer" target="_blank">anjum.chida@utdallas.edu</a><br/>
+(972) 883-6347<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wei-pang-chin/">Chin, Wei-Pang</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:wei-pang.chin@utdallas.edu" rel="noopener noreferrer" target="_blank">wei-pang.chin@utdallas.edu</a><br/>
+(972) 883-4201<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chitturi-bhadrachalam/">Chitturi, Bhadrachalam</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:chalam@utdallas.edu" rel="noopener noreferrer" target="_blank">chalam@utdallas.edu</a><br/>
+(972) 883-2136<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/christiansen-michael/">Christiansen, Michael</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:michael.christiansen@utdallas.edu">michael.christiansen@utdallas.edu</a><br/>
+(972) 883-6906<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chung-lawrence/">Chung, Lawrence</a><br/>
+Associate Professor<br/>
+</td>
+<td>
+<a href="mailto:Lawrence.Chung@utdallas.edu">Lawrence.Chung@utdallas.edu</a><br/>
+(972) 883-2178<br/>
+<a href="http://www.utdallas.edu/~chung/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="b"></a><a href="https://cs.utdallas.edu/people/faculty/cobb-jorge/">Cobb, Jorge A.</a><br/>
+Associate Professor and<br/>
+Associate Head for Graduate Education<br/>
+</td>
+<p></p><td>
+<a href="mailto:cobb@utdallas.edu">cobb@utdallas.edu</a><br/>
+(972) 883-2479<br/>
+<a href="http://utdallas.edu/~cobb/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/cole-john/">Cole, John</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:john.cole@utdallas.edu">john.cole@utdallas.edu</a><br/>
+(972) 883-6353<br/>
+<a href="http://www.utdallas.edu/~John.Cole/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="d"></a><a href="https://cs.utdallas.edu/people/faculty/daescu-ovidiu/">Daescu, Ovidiu</a><br/>
+Professor and<br/>
+CS Department Head<br/>
+</td>
+<td>
+<a href="mailto:ovidiu.daescu@utdallas.edu" rel="noopener noreferrer" target="_blank">ovidiu.daescu@utdallas.edu</a><br/>
+(972) 883-4196<br/>
+<a href="http://www.utdallas.edu/~daescu/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/davis-chris/">Davis, Chris Irwin</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:chrisirwindavis@utdallas.edu" rel="noopener noreferrer" target="_blank">chrisirwindavis@utdallas.edu</a><br/>
+(972) 883-3574<br/>
+<a href="http://www.utdallas.edu/~chrisirwindavis/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/dawande-milind/">Dawande, Milind</a><br/>
+Ashbel Smith Professor<br/>
+</td>
+<td>
+<a href="mailto:milind@utdallas.edu">milind@utdallas.edu</a><br/>
+(972) 883-2793<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/degroot-doug/">DeGroot, Doug</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Doug.DeGroot@utdallas.edu">Doug.DeGroot@utdallas.edu</a><br/>
+(972) 883-4200<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/desmedt-yvo/">Desmedt, Yvo</a><br/>
+Jonsson Distinguished Professor<br/>
+</td>
+<td>
+<a href="mailto:Yvo.Desmedt@utdallas.edu">Yvo.Desmedt@utdallas.edu</a><br/>
+(972) 883-4536<br/>
+<a href="http://www.utdallas.edu/~Yvo.Desmedt/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/dollinger-scott/">Dollinger, Scott</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:smd013000@utdallas.edu" rel="noopener noreferrer" target="_blank">smd013000@utdallas.edu</a><br/>
+972-883-3880<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/doore-karen/">Doore, Karen</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:kdoore@utdallas.edu" rel="noopener noreferrer" target="_blank">kdoore@utdallas.edu</a><br/>
+(972) 883-6328<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/du-ding-zhu/">Du, Ding-Zhu</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:dzdu@utdallas.edu">dzdu@utdallas.edu</a><br/>
+(972) 883-6615<br/>
+<a href="http://www.utdallas.edu/~dxd056000/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/du-xinya/">Du, Xinya</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:xinya.du@utdallas.edu">xinya.du@utdallas.edu</a><br/>
+(972) 883-2634<br/>
+<a href="https://xinyadu.github.io/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/erbatur-serdar/">Erbatur, Serdar</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:serdar.erbatur@utdallas.edu">serdar.erbatur@utdallas.edu</a><br/>
+(972) 883-3890<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="f"></a><a href="https://cs.utdallas.edu/people/faculty/farage-tim/">Farage, Tim</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:tfarage@utdallas.edu">tfarage@utdallas.edu</a><br/>
+(972) 883-4836<br/>
+<a href="http://www.utdallas.edu/~tfarage/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/farago-andras/" rel="noopener" target="_blank">Faragó, András</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:Andras.Farago@utdallas.edu">Andras.Farago@utdallas.edu</a><br/>
+(972) 883-6885<br/>
+<a href="http://www.utdallas.edu/~farago/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/feng-ranran/">Feng, Ranran</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:rrfeng@utdallas.edu" rel="noopener noreferrer" target="_blank">rrfeng@utdallas.edu</a><br/>
+(972) 883-4198<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/fishwick-paul/">Fishwick, Paul</a><br/>
+Professor and<br/>
+Distinguished Endowed Chair of Arts and Technology<br/>
+</td>
+<td>
+<a href="mailto:paul.fishwick@utdallas.edu">paul.fishwick@utdallas.edu</a><br/>
+(972) 883-4389<br/>
+<a href="https://cs.utdallas.edu/people/faculty/fishwick-paul/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/fox-emily-kyle/" rel="noopener" target="_blank">Fox, Emily Kyle</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:emily.fox@utdallas.edu" rel="noopener" target="_blank">emily.fox@utdallas.edu</a><br/>
+(972) 883-4168<br/>
+<a href="http://utdallas.edu/~kyle.fox/">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="g"></a><a href="https://cs.utdallas.edu/people/faculty/gogate-vibhav/">Gogate, Vibhav</a><br/>
+Associate Professor<br/>
+</td>
+<td>
+<a href="mailto:vibhav.gogate@utdallas.edu">vibhav.gogate@utdallas.edu</a><br/>
+(972) 883-4245<br/>
+<a href="https://personal.utdallas.edu/~vibhav.gogate/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/guo-xiaohu/">Guo, Xiaohu</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:xguo@utdallas.edu">xguo@utdallas.edu</a><br/>
+(972) 883-4723<br/>
+<a href="http://www.utdallas.edu/~xguo/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<p></p><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/guo-yunhui/" rel="noopener" target="_blank">Guo, Yunhui</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:yunhui.guo@utdallas.edu" rel="noopener" target="_blank">yunhui.guo@utdallas.edu</a><br/>
+(972) 883-4203<br/>
+<a href="https://yunhuiguo.github.io/" rel="noopener" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/gupta-gopal/">Gupta, Gopal</a><br/>
+Professor<br/>
+and Erik Jonsson Chair<br/>
+</td>
+<td>
+<a href="mailto:Gopal.Gupta@utdallas.edu">Gopal.Gupta@utdallas.edu</a><br/>
+(972) 883-4107<br/>
+<a href="http://www.utdallas.edu/~gupta/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/gupta-neeraj/">Gupta, Neeraj</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:neeraj.gupta@utdallas.edu" rel="noopener noreferrer" target="_blank">neeraj.gupta@utdallas.edu</a><br/>
+(972)883-4656<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="h"></a><a href="https://cs.utdallas.edu/people/faculty/haas-zygmunt/">Haas, Zygmunt</a><br/>
+Professor and<br/>
+Distinguished Chair in Computer Science<br/>
+</td>
+<td>
+<a href="mailto:haas@utdallas.edu">haas@utdallas.edu</a><br/>
+(972) 883-3571<br/>
+<a href="http://utdallas.edu/~haas/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/hamdy-omar/" rel="noopener" target="_blank">Hamdy, Omar</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Omar.Hamdy@UTDallas.edu">Omar.Hamdy@UTDallas.edu</a><br/>
+(972) 883-2692<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/hamlen-kevin/">Hamlen, Kevin</a><br/>
+Professor<br/>
+</td>
+<td>
+See website for email<br/>
+(972) 883-4724<br/>
+<a href="http://www.utdallas.edu/~hamlen/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/hao-shuang/" rel="noopener noreferrer" target="_blank">Hao, Shuang</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:shao@utdallas.edu">shao@utdallas.edu</a><br/>
+(972) 883-4164<br/>
+<a href="https://www.utdallas.edu/~shao/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/harabagiu-sanda/">Harabagiu, Sanda</a><br/>
+Professor and<br/>
+<a href="https://chairs.utdallas.edu/profiles/dr-sanda-harabagiu/">Research Initation Chair</a><br/>
+</td>
+<td>
+<a href="mailto:sanda@utdallas.edu">sanda@utdallas.edu</a><br/>
+(972) 883-4654<br/>
+<a href="http://www.utdallas.edu/~sanda/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/huynh-d-t/">Huynh, D.T.</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:huynh@utdallas.edu">huynh@utdallas.edu</a><br/>
+(972) 883-2169<br/>
+(972) 883-6810<br/>
+<a href="http://www.utdallas.edu/~huynh/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="j"></a><a href="https://cs.utdallas.edu/people/faculty/iyer-rishabh/">Iyer, Rishabh</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:Rishabh.Iyer@utdallas.edu">Rishabh.Iyer@utdallas.edu</a><br/>
+<a href="https://sites.google.com/view/rishabhiyer" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="j"></a><a href="https://cs.utdallas.edu/people/faculty/jee-kangkook/">Jee, Kangkook</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:kangkook.jee@utdallas.edu">kangkook.jee@utdallas.edu</a><br/>
+972-883-3863<br/>
+<a href="https://kangkookjee.github.io" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="j"></a><a href="https://cs.utdallas.edu/people/faculty/jue-jason/">Jue, Jason</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:Jason.Jue@utdallas.edu">Jason.Jue@utdallas.edu</a><br/>
+(972) 883-4429<br/>
+<a href="http://www.utdallas.edu/~jjue/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="k"></a><a href="https://cs.utdallas.edu/people/faculty/kantarcioglu-murat/">Kantarcioglu, Murat</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:muratk@utdallas.edu">muratk@utdallas.edu</a><br/>
+(972) 883-6616<br/>
+<a href="http://www.utdallas.edu/~mxk055100" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/karami-gity/">Karami, Gity</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:gity.karami@utdallas.edu">gity.karami@utdallas.edu</a><br/>
+(972) 883-4204<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="b"></a><a href="https://cs.utdallas.edu/people/faculty/karrah-shyam/">Karrah, Shyam</a><br/>
+Professor of Instruction<br/>
+and Director of Graduate Admissions<br/>
+</td>
+<p></p><td>
+<a href="mailto:Shyam.Karrah@utdallas.edu">Shyam.Karrah@utdallas.edu</a><br/>
+(972) 883-4197<br/>
+<a href="http://www.utdallas.edu/~skarrah/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kamran-khan/">Khan, Kamran</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:kamran.khan@utdallas.edu">kamran.khan@utdallas.edu</a><br/>
+(972) 883-3892<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/khan-latifur/">Khan, Latifur</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:Latifur.Khan@utdallas.edu">Latifur.Khan@utdallas.edu</a><br/>
+(972) 883-4137<br/>
+<a href="http://utdallas.edu/~lkhan/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<p></p><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kim-Chung-Hwan/">Kim, Chung Hwan</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:chungkim@utdallas.edu">chungkim@utdallas.edu</a><br/>
+(972)-883-3551<br/>
+<a href="https://chungkim.io" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kim-jin-ryong">Kim, Jin Ryong</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:Jin.Kim@utdallas.edu">Jin.Kim@utdallas.edu</a><br/>
+(972)-883-4139<br/>
+<a href="https://jessekim.com/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kumar-pushpa/">Kumar, Pushpa</a><br/>
+Professor of Instruction</td>
+<td>
+<a href="mailto:pushpa.kumar@utdallas.edu">pushpa.kumar@utdallas.edu</a><br/>
+(972) 883-6904<br/>
+</td>
+</tr>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/le-khiem/">Le, Khiem</a><br/>
+Associate Professor of Instruction</td>
+<td>
+<a href="mailto:Khiem.Le@utdallas.edu" rel="noopener" target="_blank">Khiem.Le@utdallas.edu</a><br/>
+(972) 883-6217<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="m"></a><a href="https://cs.utdallas.edu/people/faculty/andrian-marcus/">Marcus, Andrian</a><br/>
+Professor<br/>
+</td>
+<td><a href="mailto:amarcus@utdallas.edu" rel="noopener noreferrer" target="_blank">amarcus@utdallas.edu</a><br/>
+(972) 883-4246<br/>
+<a href="http://www.utdallas.edu/~amarcus/" rel="noopener noreferrer" target="_blank">Website</a></td>
+</tr>
+<tr>
+<td>
+<a name="m"></a><a href="https://cs.utdallas.edu/people/faculty/karen-mazidi/">Mazidi, Karen</a><br/>
+Assistant Professor of Instruction and
+<div><span class="">Director of IDEA</span><span class=""> (Inclusion, Diversity, Equity, Accessibility)</span><br/>
+</div></td>
+<td><a href="mailto:karen.mazidi@utdallas.edu">karen.mazidi@utdallas.edu</a><br/>
+(972) 883-3868<br/>
+<a href="http://www.utdallas.edu/~kjm160430/" rel="noopener noreferrer" target="_blank">Website</a></td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/min-richard/">Min, Richard</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:richard.min@utdallas.edu" rel="noopener noreferrer" target="_blank">richard.min@utdallas.edu</a><br/>
+(972) 883-4522<br/>
+<a href="http://www.utdallas.edu/~rkm010300/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/mittal-neeraj/">Mittal, Neeraj</a><br/>
+Professor, Associate CS Department Head
+<div>and Associate Head for Undergraduate Education<br/>
+</div></td>
+<td>
+<a href="mailto:neerajm@utdallas.edu">neerajm@utdallas.edu</a><br/>
+(972) 883-2347<br/>
+<a href="http://www.utdallas.edu/~neerajm/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/moldovan-dan/">Moldovan, Dan</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:dan.moldovan@utdallas.edu" rel="noopener noreferrer" target="_blank">dan.moldovan@utdallas.edu</a><br/>
+(972) 883-4838<br/>
+<a class="broken_link" href="http://www.hlt.utdallas.edu/~moldovan/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="n"></a><a href="https://cs.utdallas.edu/people/faculty/nagar-anurag/">Nagar, Anurag</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Anurag.Nagar@utdallas.edu" rel="noopener noreferrer" target="_blank">Anurag.Nagar@utdallas.edu</a><br/>
+(972) 883-6345</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/narayanasami-priya/" rel="noopener" target="_blank">Narayanasami, Priya</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:priyan@utdallas.edu">priyan@utdallas.edu</a><br/>
+(972) 883-2680<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/natarajan-sriraam/" rel="noopener noreferrer" target="_blank">Natarajan, Sriraam</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:Sriraam.Natarajan@utdallas.edu">Sriraam.Natarajan@utdallas.edu</a><br/>
+(972) 883-4163<br/>
+<a href="http://utdallas.edu/~sriraam.natarajan/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/ng-vincent/">Ng, Vincent</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:vince@hlt.utdallas.edu">vince@hlt.utdallas.edu</a><br/>
+(972) 883-4581<br/>
+<a class="broken_link" href="http://www.hlt.utdallas.edu/~vince/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/nguyen-nhut/">Nguyen, Nhut</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:nhut.nguyen@utdallas.edu">nhut.nguyen@utdallas.edu</a><br/>
+(972) 883-4521<br/>
+<a href="http://www.utdallas.edu/~nhutnn/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/tien-nguyen/">Nguyen, Tien</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:tien.n.nguyen@utdallas.edu">tien.n.nguyen@utdallas.edu</a><br/>
+(972) 883-3893<br/>
+<a href="http://www.utdallas.edu/~tien.n.nguyen/index.html" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/ntafos-simeon/">Ntafos, Simeon</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:Simeon.Ntafos@utdallas.edu">Simeon.Ntafos@utdallas.edu</a><br/>
+(972) 883-2809<br/>
+<a href="http://www.utdallas.edu/~ntafos/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr></div>
+<div><tr>
+<td><a name="o"></a>
+<div><a href="https://cs.utdallas.edu/people/faculty/omer-jalal/" rel="noopener" target="_blank">Omer, Jalal</a><br/>
+Associate Professor of Instruction<br/>
+</div></td>
+<td>
+<a href="mailto:jalal.omer@utdallas.edu">jalal.omer@utdallas.edu</a><a name="o"></a><br/>
+(972) 883-2683
+<div></div></td>
+</tr>
+<tr>
+<td>
+<a name="o"></a><a href="https://cs.utdallas.edu/people/faculty/ouyang-jessica/">Ouyang, Jessica</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:jessica.ouyang@utdallas.edu">jessica.ouyang@utdallas.edu</a><br/>
+(972)-883-4688<br/>
+<a href="http://utdallas.edu/~jessica.ouyang/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="o"></a><a href="https://cs.utdallas.edu/people/faculty/ozbirn-greg/">Ozbirn, Greg</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Greg.Ozbirn@utdallas.edu">Greg.Ozbirn@utdallas.edu</a><br/>
+(972) 883-4725<br/>
+<a href="http://utdallas.edu/~ozbirn/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="p"></a><a href="https://cs.utdallas.edu/people/faculty/page-ivor-p/">Page, Ivor P.</a><br/>
+Professor Emeritus<br/>
+</td>
+<td>
+<a href="mailto:ivor.page@utdallas.edu" rel="noopener noreferrer" target="_blank">ivor.page@utdallas.edu</a><br/>
+(972) 883-2160<br/>
+<a href="http://www.utdallas.edu/~ivor/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/paulk-mark/">Paulk, Mark C.</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Mark.Paulk@utdallas.edu">Mark.Paulk@utdallas.edu</a><br/>
+(972) 883-4839<br/>
+<a href="http://utdallas.edu/~mcp130030/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/pervin-william/">Pervin, William</a><br/>
+Professor Emeritus<br/>
+</td>
+<td>
+<a href="mailto:pervin@utdallas.edu" rel="noopener noreferrer" target="_blank">pervin@utdallas.edu</a><br/>
+(972) 883-2719<br/>
+<a href="http://www.utdallas.edu/~pervin" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/prabhakaran-b/">Prabhakaran, B.</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:bprabhakaran@utdallas.edu">bprabhakaran@utdallas.edu</a><br/>
+(972) 883-4680<br/>
+<a href="http://www.utdallas.edu/~praba/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/prakash-ravi/">Prakash, Ravi</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:Ravi.Prakash@utdallas.edu">Ravi.Prakash@utdallas.edu</a><br/>
+(972) 883-2289<br/>
+<a href="http://utdallas.edu/~ravip/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/raghavachari-balaji/" rel="noopener" target="_blank">Raghavachari, Balaji</a><br/>
+Professor Emeritus<br/>
+</td>
+<td>
+<a href="mailto:Balaji.Raghavachari@utdallas.edu" rel="noopener noreferrer" target="_blank">Balaji.Raghavachari@utdallas.edu</a><br/>
+(972) 883-2136<br/>
+<a href="http://utdallas.edu/~rbk/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/raichel-benjamin/">Raichel, Benjamin</a><br/>
+Associate Professor<br/>
+</td>
+<td>
+<a href="mailto:benjamin.raichel@utdallas.edu" rel="noopener noreferrer" target="_blank">benjamin.raichel@utdallas.edu</a><br/>
+(972) 883-4193<br/>
+<a href="http://www.utdallas.edu/~bar150630/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/razo-razo-miguel/">Razo Razo, Miguel</a><br/>
+Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:mrazo@utdallas.edu">mrazo@utdallas.edu</a><br/>
+(972) 883-4240<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/ricks-brian/">Ricks, Brian</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:absolutefunk@utdallas.edu">absolutefunk@utdallas.edu</a><br/>
+(972) 883-2674<br/>
+<a href="https://personal.utdallas.edu/~absolutefunk/" rel="noopener" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/nicholas-ruozzi/">Ruozzi, Nicholas</a><br/>
+Associate Professor<br/>
+</td>
+<td>
+<a href="mailto:nicholas.ruozzi@utdallas.edu">nicholas.ruozzi@utdallas.edu</a><br/>
+(972) 883-4918<br/>
+<a href="http://www.utdallas.edu/~nrr150130" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="s"></a><a href="https://cs.utdallas.edu/people/faculty/salazar-elmer/">Salazar, Elmer</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:elmer.salazar@utdallas.edu">elmer.salazar@utdallas.edu</a><br/>
+(972) 883-2329<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="s"></a><a href="https://cs.utdallas.edu/people/faculty/sarac-kamil/">Sarac, Kamil</a><br/>
+Professor and
+<div>Associate Head for Faculty Affairs<br/>
+</div></td>
+<td>
+<a href="mailto:ksarac@utdallas.edu">ksarac@utdallas.edu</a><br/>
+(972) 883-2337<br/>
+<a href="http://www.utdallas.edu/~ksarac/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="s"></a><a href="https://cs.utdallas.edu/people/faculty/satpute-meghana/">Satpute, Meghana</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:mns086000@utdallas.edu">mns086000@utdallas.edu</a><br/>
+(972) 883-6100<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/schweitzer-haim/">Schweitzer, Haim</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:HSchweitzer@utdallas.edu">HSchweitzer@utdallas.edu</a><br/>
+(972) 883-2238<br/>
+<a href="http://www.utdallas.edu/~haim/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/smith-jason/">Smith, Jason</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Jason.Smith1@utdallas.edu">Jason.Smith1@utdallas.edu</a><br/>
+(972) 883-4835<br/>
+</td>
+</tr></div>
+<div></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/solanki-m-nidhiben/">Solanki, Nidhiben</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:nidhis@utdallas.edu">nidhis@utdallas.edu</a><br/>
+(972) 883-2165<br/>
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/srinivasan-srimathi/" rel="noopener" target="_blank">Srinivasan, Srimathi </a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Srimathi.Srinivasan@utdallas.edu">Srimathi.Srinivasan@utdallas.edu</a><br/>
+(972) 883-4512<br/>
+</td>
+</tr></div>
+<div><tr>
+<td>
+<div><a href="https://cs.utdallas.edu/people/faculty-alumni/sudborough-i-hal/">Sudborough, I Hal</a><br/>
+Professor Emeritus</div>
+<div></div></td>
+<div><td>
+<div><a href="mailto:Ivan.Sudborough@utdallas.edu" rel="noopener" target="_blank">Ivan.Sudborough@utdallas.edu</a></div>
+<div>(972) 883-2185</div>
+<div></div></td>
+</div></tr>
+<tr>
+<td>
+<a name="t"></a><a href="https://cs.utdallas.edu/people/faculty/thuraisingham-bhavani/">Thuraisingham, Bhavani</a><br/>
+Louis A. Beecherl Jr. Distinguished Professor<br/>
+</td>
+<td>
+<a href="mailto:bhavani.thuraisingham@utdallas.edu" rel="noopener noreferrer" target="_blank">bhavani.thuraisingham@utdallas.edu</a><br/>
+(972) 883-4738<br/>
+<a href="https://www.utdallas.edu/~bxt043000/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/thompson-laurie/">Thompson, Laurie</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Laurie.Thompson@utdallas.edu" rel="noopener noreferrer" target="_blank">Laurie.Thompson@utdallas.edu</a><br/>
+(972) 883-6326<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/tian-yapeng/">Tian, Yapeng</a><br/>
+Assistant Professor
+<div></div></td>
+<td>
+<a href="mailto:yapeng.tian@utdallas.edu" rel="noopener noreferrer" target="_blank">yapeng.tian@utdallas.edu</a><br/>
+(972) 883-4205
+<div>
+<div><a href="http://www.yapengtian.com/" rel="noopener noreferrer" target="_blank">Website</a></div>
+<p></p></div></td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/truemper-klaus/">Truemper, Klaus</a><br/>
+Professor Emeritus<br/>
+</td>
+<td>
+<a href="mailto:klaus.truemper@utdallas.edu" rel="noopener noreferrer" target="_blank">klaus.truemper@utdallas.edu</a><br/>
+(972) 883-2712<br/>
+<a href="https://www.utdallas.edu/~klaus/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<p></p><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/veerasamy-jeyakesavan/" rel="noopener" target="_blank">Veerasamy, Jey</a><br/>
+Professor of Instruction
+<p>Director of the UT Dallas Center for Computer Science Education &amp; Outreach</p></td>
+<td>
+<a href="mailto:jeyv@utdallas.edu" rel="noopener noreferrer" target="_blank">jeyv@utdallas.edu</a><br/>
+(972) 883-4241<br/>
+<a href="http://utdallas.edu/~jeyv/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="v"></a><a href="https://cs.utdallas.edu/people/faculty-alumni/venkatesan-s/">Venkatesan, S.</a><br/>
+Professor Emeritus</td>
+<td><a href="mailto:subbarayan.venkatesan@utdallas.edu" rel="noopener" target="_blank">subbarayan.venkatesan@utdallas.edu</a><br/>
+(972) 883-2452<br/>
+<a href="http://utdallas.edu/~venky/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wei-shiyi/" rel="noopener noreferrer" target="_blank">Wei, Shiyi</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:swei@utdallas.edu">swei@utdallas.edu</a><br/>
+(972) 883-4167
+
+<div><a href="https://personal.utdallas.edu/~swei/" rel="noopener" target="_blank">Website</a><br/>
+</div></td>
+</tr>
+<tr>
+<td>
+<a name="w"></a><a href="https://cs.utdallas.edu/people/faculty/willson-james/">Willson, James</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:jamesk.willsoniii@utdallas.edu">jamesk.willsoniii@utdallas.edu</a><br/>
+(972) 883-6035<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wong-w-eric/">Wong, W. Eric</a><br/>
+Professor, Director of International Outreach,
+<div>and Director of Software Engineering Programs<br/>
+</div></td>
+<td>
+<a href="mailto:ewong@utdallas.edu">ewong@utdallas.edu</a><br/>
+(972) 883-6619<br/>
+<a href="http://www.utdallas.edu/~ewong/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wu-weili/">Wu, Weili</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:weiliwu@utdallas.edu">weiliwu@utdallas.edu</a><br/>
+(972) 883-2194<br/>
+<a href="http://www.utdallas.edu/~weiliwu/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/xiang-yu/" rel="noopener" target="_blank">Xiang, Yu</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a name="x"></a><a href="mailto:yu.xiang@utdallas.edu">yu.xiang@utdallas.edu</a><br/>
+(972) 883-3891<br/>
+<a href="https://yuxng.github.io/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="y"></a><a href="https://cs.utdallas.edu/people/faculty/yang-wei/">Yang, Wei</a><br/>
+Assistant Professor<br/>
+</td>
+<td>
+<a href="mailto:I-Ling.Yen@utdallas.edu">wei.yang@utdallas.edu</a><br/>
+(972) 883-4173<br/>
+<a href="http://www.utdallas.edu/~wxy180002/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a name="y"></a><a href="https://cs.utdallas.edu/people/faculty/yen-i-ling/">Yen, I-Ling</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:I-Ling.Yen@utdallas.edu">I-Ling.Yen@utdallas.edu</a><br/>
+(972) 883-6446<br/>
+<a href="http://www.utdallas.edu/~ilyen/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/yuruk-nurcan/">Yuruk, Nurcan</a><br/>
+Associate Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Nurcan.Yuruk@utdallas.edu">Nurcan.Yuruk@utdallas.edu</a><br/>
+(972) 883-3575<br/>
+<a href="https://personal.utdallas.edu/~nurcan.yuruk/" rel="noopener noreferrer" target="_blank">Website</a></td>
+</tr>
+<tr>
+<td>
+<a name="z"></a><a href="https://cs.utdallas.edu/people/faculty/zalila-wenkstern-rym/">Zalila-Wenkstern, Rym</a><br/>
+Professor<br/>
+</td>
+<td>
+<a href="mailto:rymw@utdallas.edu" rel="noopener noreferrer" target="_blank">rymw@utdallas.edu</a><br/>
+(972) 883-2091<br/>
+<a href="http://www.utdallas.edu/~rmili/" rel="noopener noreferrer" target="_blank">Website</a><br/>
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/zhang-kang/">Zhang, Kang</a><br/>
+Professor Emeritus<br/>
+</td>
+<td>
+<a href="mailto:Kang.Zhang@utdallas.edu" rel="noopener" target="_blank">Kang.Zhang@utdallas.edu</a><br/>
+(972) 883-6351
+<div><a href="http://utdallas.edu/~kzhang/" rel="noopener" target="_blank">Website</a><br/>
+</div></td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/zhao-yi/" rel="noopener" target="_blank">Zhao, Yi</a><br/>
+Assistant Professor of Instruction<br/>
+</td>
+<td>
+<a href="mailto:Yi.Zhao@UTDallas.edu" rel="noopener" target="_blank">Yi.Zhao@UTDallas.edu</a><br/>
+(972) 883-2693<br/>
+</td>
+</tr></div>
+<p></p></tbody>
+</table></div>
+<div></div>
+</div>
+</div>
+</div></div></div></div>
+</section> </div><!-- .post-content -->
+<div class="entry-footer post-meta">
+</div><!-- .entry-footer -->
+</article><!-- #post -->
+</div>
+<aside class="sidebar col-sm-4">
+</aside>
+</div><!-- .row -->
+</div><!-- .container -->
+</section><!-- #content -->
+</main><!-- #main -->
+<footer class="site-footer" id="colophon" role="contentinfo">
+<!-- go to top -->
+<div class="container gototop">
+<a href="#top">Go To Top</a><i class="fa fa-chevron-up"></i>
+</div>
+<div class="container bottom-footer">
+<div class="row">
+<!-- UTD and Jonsson Logos -->
+<div class="col-md-6 logos">
+<div class="footer-logos">
+<img alt="" src="https://cs.utdallas.edu/wp-content/uploads/2019/04/UTD-TX-Logo-w.o-txt-under-3.png"/>
+<img alt="" height="172" src="https://cs.utdallas.edu/wp-content/uploads/2019/06/The-Jonsson-School-SHAPE-v4-.png" width="140"/>
+</div>
+</div>
+<!-- End Logos -->
+<!-- social links -->
+<div class="col-md-6">
+<ul class="social">
+</ul>
+</div>
+</div><!-- .row -->
+<!-- copyright notice -->
+<div class="copyright">
+<p class="MsoNormal" style="margin: 0in; font-size: medium; font-family: Calibri, sans-serif; caret-color: #fffff; color: #fffff; text-align: center;">Copyright © 2023 - The University of Texas at Dallas - Erik Jonsson School of Engineering &amp; Computer Science - Department of Computer Science</p> </div><!-- .copyright -->
+</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<button aria-controls="rmp-container-25220" aria-label="Menu Trigger" class="rmp_menu_trigger rmp-menu-trigger-boring" id="rmp_menu_trigger-25220" type="button">
+<span class="rmp-trigger-box">
+<span class="responsive-menu-pro-inner"></span>
+</span>
+<div class="rmp-trigger-label rmp-trigger-label-bottom">
+<span class="rmp-trigger-text">MENU</span>
+</div>
+</button>
+<div class="rmp-container rmp-container rmp-slide-left" id="rmp-container-25220">
+<div class="rmp-menu-title" id="rmp-menu-title-25220">
+<a href="https://cs.utdallas.edu/" id="rmp-menu-title-link" target="_self">
+<img alt="" class="rmp-menu-title-image" height="100" src="http://cs.utdallas.edu/wp-content/uploads/2016/04/UTD-Logo_02_Icon.png" title="" width="100"/> <span>Department of Computer Science</span>
+</a>
+</div>
+<div class="rmp-menu-wrap" id="rmp-menu-wrap-25220"><ul aria-label="Default Menu" class="rmp-menu" id="rmp-menu-25220" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" id="rmp-menu-item-10936" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/about/" role="menuitem">About<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="About" class="rmp-submenu rmp-submenu-depth-1" data-depth="2" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-10939" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/about/history/" role="menuitem">History</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-10953" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/about/computing-facilities/" role="menuitem">Computing Facilities</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-10954" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/about/accreditation/" role="menuitem">Accreditation</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-10952" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/about/mission/" role="menuitem">Mission</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom rmp-menu-item rmp-menu-top-level-item" id="rmp-menu-item-736" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/news/" role="menuitem">News</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" id="rmp-menu-item-222" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/?page_id=139" role="menuitem">Research<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="Research" class="rmp-submenu rmp-submenu-depth-1" data-depth="2" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-5367" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/research/research-areas/" role="menuitem">Research Areas</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-5366" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/research/institutes-and-centers/" role="menuitem">Institutes and Centers</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-5365" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/research/labs/" role="menuitem">Labs</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-1335" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/research/reports/" role="menuitem">Reports</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-4948" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/research/department-software/" role="menuitem">Department Software</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-7809" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/front-page/cs-blog/" role="menuitem">CS Blog</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" id="rmp-menu-item-4970" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/education/" role="menuitem">Education<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="Education" class="rmp-submenu rmp-submenu-depth-1" data-depth="2" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-5585" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/admissions/" role="menuitem">Admissions</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-4974" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/education/undergraduate/" role="menuitem">Undergraduate</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-4973" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/education/graduate/" role="menuitem">Graduate</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-25454" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/education/scholarships/" role="menuitem">Scholarships</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-39" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/education/degrees/" role="menuitem">Degrees</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-125" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/admissions/forms/" role="menuitem">Forms</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-105 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children rmp-menu-item rmp-menu-current-item rmp-menu-item-current-ancestor rmp-menu-item-current-parent rmp-menu-item-has-children rmp-menu-top-level-item" id="rmp-menu-item-225" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/faculty/" role="menuitem">People<div class="rmp-menu-subarrow rmp-menu-subarrow-active">▲</div></a><ul aria-label="People" class="rmp-submenu rmp-submenu-depth-1 rmp-submenu-open" data-depth="2" role="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item rmp-menu-item rmp-menu-current-item rmp-menu-sub-level-item" id="rmp-menu-item-24183" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/faculty" role="menuitem">Faculty</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-25081" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/part-time-lecturers/" role="menuitem">Part-Time Lecturers</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-10890" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/affiliated-faculty/" role="menuitem">Affiliated Faculty</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-10342" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/faculty-alumni/" role="menuitem">Faculty Alumni</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-24953" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/ta-ra/" role="menuitem">CS TA / RA</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-2429" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/staff/" role="menuitem">Staff</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-6107" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/people/job-postings/" role="menuitem">Job Postings</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" id="rmp-menu-item-1034" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/industry/" role="menuitem">Industry<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="Industry" class="rmp-submenu rmp-submenu-depth-1" data-depth="2" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-25118" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/industry/iac/" role="menuitem">Industry Advisory Council</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-25122" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/industry/models-of-engagement/" role="menuitem">Models of Engagement</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" id="rmp-menu-item-4979" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/" role="menuitem">Students<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="Students" class="rmp-submenu rmp-submenu-depth-1" data-depth="2" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-25352" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/student-resources/" role="menuitem">Student Resources</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-4975" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/organizations/" role="menuitem">Organizations</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-11359" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/tutoring-mentor/" role="menuitem">Tutoring / Testing</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-9619" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/international-students/" role="menuitem">International</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-9847" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/housing-and-dining/" role="menuitem">Housing and Dining</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" id="rmp-menu-item-26656" role="none"><a class="rmp-menu-item-link" href="https://cs.utdallas.edu/community/idea/" role="menuitem">IDEA</a></li></ul></li></ul></div> <div class="rmp-search-box" id="rmp-search-box-25220">
+<form action="https://cs.utdallas.edu/" class="rmp-search-form" role="search">
+<input class="rmp-search-box" name="s" placeholder="Search" title="Search" type="search"/>
+</form>
+</div>
+<div class="rmp-menu-additional-content" id="rmp-menu-additional-content-25220">
+</div>
+</div>
+<script id="elementor-fast-gallery-mosaic-frontend-js" src="https://cs.utdallas.edu/wp-content/plugins/fastgallerymosaicelementor/assets/js/fast-gallery.js?ver=6.2" type="text/javascript"></script>
+<script id="imagesloaded-js" src="https://c0.wp.com/c/6.2/wp-includes/js/imagesloaded.min.js" type="text/javascript"></script>
+<script id="masonry-js" src="https://c0.wp.com/c/6.2/wp-includes/js/masonry.min.js" type="text/javascript"></script>
+<script id="jquery-masonry-js" src="https://c0.wp.com/c/6.2/wp-includes/js/jquery/jquery.masonry.min.js" type="text/javascript"></script>
+<script id="elementor-fast-media-gallery-frontend-js" src="https://cs.utdallas.edu/wp-content/plugins/fastmediagalleryelementor/assets/js/fast-gallery.js?ver=6.2" type="text/javascript"></script>
+<script id="jetpack-photon-js" src="https://c0.wp.com/p/jetpack/12.0/_inc/build/photon/photon.min.js" type="text/javascript"></script>
+<script id="rmp_menu_scripts-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var rmp_menu = {"ajaxURL":"https:\/\/cs.utdallas.edu\/wp-admin\/admin-ajax.php","wp_nonce":"02e9b295fb","menu":[{"menu_theme":null,"theme_type":"default","theme_location_menu":"","submenu_submenu_arrow_width":"44","submenu_submenu_arrow_width_unit":"px","submenu_submenu_arrow_height":"44","submenu_submenu_arrow_height_unit":"px","submenu_arrow_position":"right","submenu_sub_arrow_background_colour":"#3b3531","submenu_sub_arrow_background_hover_colour":"#2c2825","submenu_sub_arrow_background_colour_active":"#212121","submenu_sub_arrow_background_hover_colour_active":"#3f3f3f","submenu_sub_arrow_border_width":"1","submenu_sub_arrow_border_width_unit":"px","submenu_sub_arrow_border_colour":"#2c2825","submenu_sub_arrow_border_hover_colour":"#2c2825","submenu_sub_arrow_border_colour_active":"#212121","submenu_sub_arrow_border_hover_colour_active":"#ffffff","submenu_sub_arrow_shape_colour":"#ffffff","submenu_sub_arrow_shape_hover_colour":"#ffffff","submenu_sub_arrow_shape_colour_active":"#ffffff","submenu_sub_arrow_shape_hover_colour_active":"#ffffff","use_header_bar":"off","header_bar_items_order":"{\"logo\":\"on\",\"title\":\"on\",\"search\":\"on\",\"html content\":\"on\"}","header_bar_title":"","header_bar_html_content":"","header_bar_logo":"","header_bar_logo_link":"","header_bar_logo_width":"","header_bar_logo_width_unit":"%","header_bar_logo_height":"","header_bar_logo_height_unit":"px","header_bar_height":"80","header_bar_height_unit":"px","header_bar_padding":{"top":"0px","right":"5%","bottom":"0px","left":"5%"},"header_bar_font":"","header_bar_font_size":"14","header_bar_font_size_unit":"px","header_bar_text_color":"#ffffff","header_bar_background_color":"#ffffff","header_bar_breakpoint":"800","header_bar_position_type":"fixed","header_bar_adjust_page":null,"header_bar_scroll_enable":"off","header_bar_scroll_background_color":"#36bdf6","mobile_breakpoint":"600","tablet_breakpoint":"767","transition_speed":"1","sub_menu_speed":"0.2","show_menu_on_page_load":"","menu_disable_scrolling":"off","menu_overlay":"off","menu_overlay_colour":"rgba(0, 0, 0, 0.7)","desktop_menu_width":"","desktop_menu_width_unit":"%","desktop_menu_positioning":"fixed","desktop_menu_side":"","desktop_menu_to_hide":"","use_current_theme_location":"off","mega_menu":{"225":"off","227":"off","229":"off","228":"off","226":"off"},"desktop_submenu_open_animation":"","desktop_submenu_open_animation_speed":"0ms","desktop_submenu_open_on_click":"","desktop_menu_hide_and_show":"","menu_name":"Default Menu","menu_to_use":"primary-menu","different_menu_for_mobile":"off","menu_to_use_in_mobile":"main-menu","use_mobile_menu":"on","use_tablet_menu":"on","use_desktop_menu":"","menu_display_on":"all-pages","menu_to_hide":".navbar-toggle","submenu_descriptions_on":"","custom_walker":"","menu_background_colour":"#3b3531","menu_depth":"2","smooth_scroll_on":"off","smooth_scroll_speed":"500","menu_font_icons":[],"menu_links_height":"44","menu_links_height_unit":"px","menu_links_line_height":"44","menu_links_line_height_unit":"px","menu_depth_0":"5","menu_depth_0_unit":"%","menu_font_size":"13","menu_font_size_unit":"px","menu_font":"","menu_font_weight":"normal","menu_text_alignment":"left","menu_text_letter_spacing":"","menu_word_wrap":"off","menu_link_colour":"#ffffff","menu_link_hover_colour":"#ffffff","menu_current_link_colour":"#ffffff","menu_current_link_hover_colour":"#ffffff","menu_item_background_colour":"#3b3531","menu_item_background_hover_colour":"#2c2825","menu_current_item_background_colour":"#3b3531","menu_current_item_background_hover_colour":"#3b3531","menu_border_width":"1","menu_border_width_unit":"px","menu_item_border_colour":"#2c2825","menu_item_border_colour_hover":"#2c2825","menu_current_item_border_colour":"#212121","menu_current_item_border_hover_colour":"#3f3f3f","submenu_links_height":"44","submenu_links_height_unit":"px","submenu_links_line_height":"44","submenu_links_line_height_unit":"px","menu_depth_side":"left","menu_depth_1":"10","menu_depth_1_unit":"%","menu_depth_2":"15","menu_depth_2_unit":"%","menu_depth_3":"20","menu_depth_3_unit":"%","menu_depth_4":"25","menu_depth_4_unit":"%","submenu_item_background_colour":"#3b3531","submenu_item_background_hover_colour":"#2c2825","submenu_current_item_background_colour":"#3b3531","submenu_current_item_background_hover_colour":"#3b3531","submenu_border_width":"1","submenu_border_width_unit":"px","submenu_item_border_colour":"#2c2825","submenu_item_border_colour_hover":"#2c2825","submenu_current_item_border_colour":"#212121","submenu_current_item_border_hover_colour":"#3f3f3f","submenu_font_size":"13","submenu_font_size_unit":"px","submenu_font":"","submenu_font_weight":"normal","submenu_text_letter_spacing":"","submenu_text_alignment":"left","submenu_link_colour":"#ffffff","submenu_link_hover_colour":"#ffffff","submenu_current_link_colour":"#ffffff","submenu_current_link_hover_colour":"#ffffff","inactive_arrow_shape":"\u25bc","active_arrow_shape":"\u25b2","inactive_arrow_font_icon":"","active_arrow_font_icon":"","inactive_arrow_image":"","active_arrow_image":"","submenu_arrow_width":"44","submenu_arrow_width_unit":"px","submenu_arrow_height":"44","submenu_arrow_height_unit":"px","arrow_position":"right","menu_sub_arrow_shape_colour":"#ffffff","menu_sub_arrow_shape_hover_colour":"#ffffff","menu_sub_arrow_shape_colour_active":"#ffffff","menu_sub_arrow_shape_hover_colour_active":"#ffffff","menu_sub_arrow_border_width":"1","menu_sub_arrow_border_width_unit":"px","menu_sub_arrow_border_colour":"#2c2825","menu_sub_arrow_border_hover_colour":"#2c2825","menu_sub_arrow_border_colour_active":"#212121","menu_sub_arrow_border_hover_colour_active":"#ffffff","menu_sub_arrow_background_colour":"#3b3531","menu_sub_arrow_background_hover_colour":"#2c2825","menu_sub_arrow_background_colour_active":"#212121","menu_sub_arrow_background_hover_colour_active":"#3f3f3f","fade_submenus":"off","fade_submenus_side":"left","fade_submenus_delay":"100","fade_submenus_speed":"500","use_slide_effect":"off","slide_effect_back_to_text":"Back","accordion_animation":"on","auto_expand_all_submenus":"off","auto_expand_current_submenus":"on","menu_item_click_to_trigger_submenu":"on","button_width":"55","button_width_unit":"px","button_height":"55","button_height_unit":"px","button_background_colour":"#3b3531","button_background_colour_hover":"#000000","button_background_colour_active":"#3b3531","toggle_button_border_radius":"5","button_transparent_background":"off","button_left_or_right":"right","button_position_type":"fixed","button_distance_from_side":"43","button_distance_from_side_unit":"%","button_top":"15","button_top_unit":"px","button_push_with_animation":"off","button_click_animation":"boring","button_line_margin":"4","button_line_margin_unit":"px","button_line_width":"44","button_line_width_unit":"px","button_line_height":"2","button_line_height_unit":"px","button_line_colour":"#ffffff","button_line_colour_hover":"#ffffff","button_line_colour_active":"#ffffff","button_font_icon":"","button_font_icon_when_clicked":"","button_image":"","button_image_when_clicked":"","button_title":"MENU","button_title_open":"","button_title_position":"bottom","menu_container_columns":"","button_font":"","button_font_size":"13","button_font_size_unit":"px","button_title_line_height":"13","button_title_line_height_unit":"px","button_text_colour":"#ffffff","button_trigger_type_click":"on","button_trigger_type_hover":"off","button_click_trigger":"#responsive-menu-button","items_order":{"title":"on","menu":"on","search":"on","additional content":"on"},"menu_title":"Department of Computer Science","menu_title_link":"https:\/\/cs.utdallas.edu\/","menu_title_link_location":"_self","menu_title_image":"http:\/\/cs.utdallas.edu\/wp-content\/uploads\/2016\/04\/UTD-Logo_02_Icon.png","menu_title_font_icon":"","menu_title_section_padding":{"top":"10%","right":"5%","bottom":"0%","left":"5%"},"menu_title_background_colour":"#3b3531","menu_title_background_hover_colour":"#3b3531","menu_title_font_size":"18","menu_title_font_size_unit":"px","menu_title_alignment":"left","menu_title_font_weight":"400","menu_title_font_family":"","menu_title_colour":"#ffffff","menu_title_hover_colour":"#ffffff","menu_title_image_width":"","menu_title_image_width_unit":"%","menu_title_image_height":"","menu_title_image_height_unit":"px","menu_additional_content":"","menu_additional_section_padding":{"left":"5%","top":"0px","right":"5%","bottom":"0px"},"menu_additional_content_font_size":"16","menu_additional_content_font_size_unit":"px","menu_additional_content_alignment":"center","menu_additional_content_colour":"#ffffff","menu_search_box_text":"Search","menu_search_section_padding":{"left":"5%","top":"0px","right":"5%","bottom":"0px"},"menu_search_box_height":"45","menu_search_box_height_unit":"px","menu_search_box_border_radius":"30","menu_search_box_text_colour":"#333333","menu_search_box_background_colour":"#ffffff","menu_search_box_placeholder_colour":"#c7c7cd","menu_search_box_border_colour":"#dadada","menu_section_padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"menu_width":"70","menu_width_unit":"%","menu_maximum_width":"","menu_maximum_width_unit":"px","menu_minimum_width":"","menu_minimum_width_unit":"px","menu_auto_height":"off","menu_container_padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"menu_container_background_colour":"#3b3531","menu_background_image":"","animation_type":"slide","menu_appear_from":"left","animation_speed":"0.5","page_wrapper":"","menu_close_on_body_click":"on","menu_close_on_scroll":"off","menu_close_on_link_click":"off","enable_touch_gestures":"","breakpoint":"767","scripts_in_footer":"on","minify_scripts":"on","external_files":"off","shortcode":"off","mobile_only":"off","custom_css":"","single_menu_height":"80","single_menu_font":"","single_menu_font_size":"14","single_menu_submenu_height":"40","single_menu_submenu_font":"","single_menu_submenu_font_size":"12","single_menu_item_link_colour":"#ffffff","single_menu_item_link_colour_hover":"#ffffff","single_menu_item_background_colour":"#ffffff","single_menu_item_background_colour_hover":"#ffffff","single_menu_item_submenu_link_colour":"#ffffff","single_menu_item_submenu_link_colour_hover":"#ffffff","single_menu_item_submenu_background_colour":"#ffffff","single_menu_item_submenu_background_colour_hover":"#ffffff","button_image_alt":"","button_image_alt_when_clicked":"","active_arrow_image_alt":"","inactive_arrow_image_alt":"","menu_title_image_alt":"","header_bar_logo_alt":"","single_menu_height_unit":"px","single_menu_font_size_unit":"px","single_menu_submenu_height_unit":"auto","single_menu_submenu_font_size_unit":"px","menu_depth_5":"30","menu_depth_5_unit":"%","button_font_icon_type":"font-awesome","button_font_icon_when_clicked_type":"font-awesome","active_arrow_font_icon_type":"font-awesome","inactive_arrow_font_icon_type":"font-awesome","menu_adjust_for_wp_admin_bar":"off","menu_title_font_icon_type":"font-awesome","keyboard_shortcut_close_menu":"27,37","keyboard_shortcut_open_menu":"32,39","button_trigger_type":"click","remove_fontawesome":"","remove_bootstrap":"","desktop_menu_options":"{\"736\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"4945\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4654\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"222\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"5367\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"5366\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"5365\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"1335\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4948\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"7809\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4970\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"4974\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4973\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"39\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"5585\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"4957\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4960\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4963\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"125\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"4967\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"225\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"107\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"6107\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"2429\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"1034\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"4979\":{\"type\":\"standard\",\"width\":\"auto\",\"parent_background_colour\":\"\",\"parent_background_image\":\"\"},\"4975\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"9847\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]},\"9619\":{\"width\":\"auto\",\"widgets\":[{\"title\":{\"enabled\":\"true\"}}]}}","admin_theme":"light","single_menu_line_height":"80","single_menu_line_height_unit":"px","single_menu_submenu_line_height":"40","single_menu_submenu_line_height_unit":"px","hide_on_mobile":"off","hide_on_desktop":"off","excluded_pages":null,"menu_title_padding":{"left":"5%","top":"0px","right":"5%","bottom":"0px"},"menu_id":25220,"active_toggle_contents":"\u25b2","inactive_toggle_contents":"\u25bc"}]};
+/* ]]> */
+</script>
+<script id="rmp_menu_scripts-js" src="https://cs.utdallas.edu/wp-content/plugins/responsive-menu/v4.0.0/assets/js/rmp-menu.js?ver=4.2.3" type="text/javascript"></script>
+<script id="ta-music-bootstrap-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/bootstrap.min.js?ver=3.3.4" type="text/javascript"></script>
+<script id="ta-music-flexslider-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/jquery.flexslider.min.js?ver=2.2.0" type="text/javascript"></script>
+<script id="ta-music-isotope-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/jquery.isotope.min.js?ver=1.5.26" type="text/javascript"></script>
+<script id="ta-music-imagesloaded-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/imagesloaded.pkgd.min.js?ver=3.1.8" type="text/javascript"></script>
+<script id="ta-music-infinitescroll-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/jquery.infinitescroll.min.js?ver=2.1.0" type="text/javascript"></script>
+<script id="ta-music-manual-trigger-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/manual-trigger.js?ver=2.0b2.110617" type="text/javascript"></script>
+<script id="ta-music-audio-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/audio.js?ver=6.2" type="text/javascript"></script>
+<script id="ta-music-app-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var cf = {"url":"https:\/\/cs.utdallas.edu\/wp-admin\/admin-ajax.php"};
+var ta_music = {"startPage":"1","maxPages":"0"};
+/* ]]> */
+</script>
+<script id="ta-music-app-js-js" src="https://cs.utdallas.edu/wp-content/themes/ta-music/js/app.js?ver=6.2" type="text/javascript"></script>
+<script id="wpb_composer_front_js-js" src="https://cs.utdallas.edu/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.11.0" type="text/javascript"></script>
+<script defer="" src="https://stats.wp.com/e-202317.js"></script>
+<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'108965885',post:'105',tz:'-5',srv:'cs.utdallas.edu',j:'1:12.0'} ]);
+		_stq.push([ 'clickTrackerInit', '108965885', '105' ]);
+	</script>
+</body>
+</html>
+<!-- Cached by WP-Optimize - https://getwpo.com - Last modified: Wed, 26 Apr 2023 09:34:35 GMT -->
