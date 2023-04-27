@@ -39,4 +39,5 @@ def search_stanford_prof(url):
 
 prof_urls = get_prof_urls()
 for url in prof_urls:
-    print(search_stanford_prof(url))
+    res = search_stanford_prof(url)
+    if (res): print(res)
